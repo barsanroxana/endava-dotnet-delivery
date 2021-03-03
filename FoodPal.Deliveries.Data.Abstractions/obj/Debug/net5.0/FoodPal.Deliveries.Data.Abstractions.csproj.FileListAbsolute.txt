@@ -1,0 +1,17 @@
+C:\Users\Roxana\Desktop\Endava\FoodPal.Deliveries\FoodPal.Deliveries.Data.Abstractions\bin\Debug\net5.0\FoodPal.Deliveries.Data.Abstractions.deps.json
+C:\Users\Roxana\Desktop\Endava\FoodPal.Deliveries\FoodPal.Deliveries.Data.Abstractions\bin\Debug\net5.0\FoodPal.Deliveries.Data.Abstractions.dll
+C:\Users\Roxana\Desktop\Endava\FoodPal.Deliveries\FoodPal.Deliveries.Data.Abstractions\bin\Debug\net5.0\ref\FoodPal.Deliveries.Data.Abstractions.dll
+C:\Users\Roxana\Desktop\Endava\FoodPal.Deliveries\FoodPal.Deliveries.Data.Abstractions\bin\Debug\net5.0\FoodPal.Deliveries.Data.Abstractions.pdb
+C:\Users\Roxana\Desktop\Endava\FoodPal.Deliveries\FoodPal.Deliveries.Data.Abstractions\bin\Debug\net5.0\FoodPal.Deliveries.Common.dll
+C:\Users\Roxana\Desktop\Endava\FoodPal.Deliveries\FoodPal.Deliveries.Data.Abstractions\bin\Debug\net5.0\FoodPal.Deliveries.Domain.dll
+C:\Users\Roxana\Desktop\Endava\FoodPal.Deliveries\FoodPal.Deliveries.Data.Abstractions\bin\Debug\net5.0\FoodPal.Deliveries.Domain.pdb
+C:\Users\Roxana\Desktop\Endava\FoodPal.Deliveries\FoodPal.Deliveries.Data.Abstractions\bin\Debug\net5.0\FoodPal.Deliveries.Common.pdb
+C:\Users\Roxana\Desktop\Endava\FoodPal.Deliveries\FoodPal.Deliveries.Data.Abstractions\obj\Debug\net5.0\FoodPal.Deliveries.Data.Abstractions.csprojAssemblyReference.cache
+C:\Users\Roxana\Desktop\Endava\FoodPal.Deliveries\FoodPal.Deliveries.Data.Abstractions\obj\Debug\net5.0\FoodPal.Deliveries.Data.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roxana\Desktop\Endava\FoodPal.Deliveries\FoodPal.Deliveries.Data.Abstractions\obj\Debug\net5.0\FoodPal.Deliveries.Data.Abstractions.AssemblyInfoInputs.cache
+C:\Users\Roxana\Desktop\Endava\FoodPal.Deliveries\FoodPal.Deliveries.Data.Abstractions\obj\Debug\net5.0\FoodPal.Deliveries.Data.Abstractions.AssemblyInfo.cs
+C:\Users\Roxana\Desktop\Endava\FoodPal.Deliveries\FoodPal.Deliveries.Data.Abstractions\obj\Debug\net5.0\FoodPal.Deliveries.Data.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\Roxana\Desktop\Endava\FoodPal.Deliveries\FoodPal.Deliveries.Data.Abstractions\obj\Debug\net5.0\FoodPal.Deliveries.Data.Abstractions.csproj.CopyComplete
+C:\Users\Roxana\Desktop\Endava\FoodPal.Deliveries\FoodPal.Deliveries.Data.Abstractions\obj\Debug\net5.0\FoodPal.Deliveries.Data.Abstractions.dll
+C:\Users\Roxana\Desktop\Endava\FoodPal.Deliveries\FoodPal.Deliveries.Data.Abstractions\obj\Debug\net5.0\ref\FoodPal.Deliveries.Data.Abstractions.dll
+C:\Users\Roxana\Desktop\Endava\FoodPal.Deliveries\FoodPal.Deliveries.Data.Abstractions\obj\Debug\net5.0\FoodPal.Deliveries.Data.Abstractions.pdb

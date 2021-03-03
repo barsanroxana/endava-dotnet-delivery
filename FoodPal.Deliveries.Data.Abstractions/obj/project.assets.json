@@ -1,0 +1,108 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "FoodPal.Deliveries.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/FoodPal.Deliveries.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FoodPal.Deliveries.Common.dll": {}
+        }
+      },
+      "FoodPal.Deliveries.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "FoodPal.Deliveries.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/FoodPal.Deliveries.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FoodPal.Deliveries.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FoodPal.Deliveries.Common/1.0.0": {
+      "type": "project",
+      "path": "../FoodPal.Deliveries.Common/FoodPal.Deliveries.Common.csproj",
+      "msbuildProject": "../FoodPal.Deliveries.Common/FoodPal.Deliveries.Common.csproj"
+    },
+    "FoodPal.Deliveries.Domain/1.0.0": {
+      "type": "project",
+      "path": "../FoodPal.Deliveries.Domain/FoodPal.Deliveries.Domain.csproj",
+      "msbuildProject": "../FoodPal.Deliveries.Domain/FoodPal.Deliveries.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "FoodPal.Deliveries.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Roxana\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Roxana\\Desktop\\Endava\\FoodPal.Deliveries\\FoodPal.Deliveries.Data.Abstractions\\FoodPal.Deliveries.Data.Abstractions.csproj",
+      "projectName": "FoodPal.Deliveries.Data.Abstractions",
+      "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\FoodPal.Deliveries\\FoodPal.Deliveries.Data.Abstractions\\FoodPal.Deliveries.Data.Abstractions.csproj",
+      "packagesPath": "C:\\Users\\Roxana\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Roxana\\Desktop\\Endava\\FoodPal.Deliveries\\FoodPal.Deliveries.Data.Abstractions\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Roxana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\Roxana\\Desktop\\Endava\\FoodPal.Deliveries\\FoodPal.Deliveries.Domain\\FoodPal.Deliveries.Domain.csproj": {
+              "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\FoodPal.Deliveries\\FoodPal.Deliveries.Domain\\FoodPal.Deliveries.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

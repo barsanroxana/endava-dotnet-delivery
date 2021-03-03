@@ -1,0 +1,15 @@
+C:\Users\Roxana\Desktop\Endava\FoodPal.Deliveries\FoodPal.Deliveries.Domain\bin\Debug\net5.0\FoodPal.Deliveries.Domain.deps.json
+C:\Users\Roxana\Desktop\Endava\FoodPal.Deliveries\FoodPal.Deliveries.Domain\bin\Debug\net5.0\FoodPal.Deliveries.Domain.dll
+C:\Users\Roxana\Desktop\Endava\FoodPal.Deliveries\FoodPal.Deliveries.Domain\bin\Debug\net5.0\ref\FoodPal.Deliveries.Domain.dll
+C:\Users\Roxana\Desktop\Endava\FoodPal.Deliveries\FoodPal.Deliveries.Domain\bin\Debug\net5.0\FoodPal.Deliveries.Domain.pdb
+C:\Users\Roxana\Desktop\Endava\FoodPal.Deliveries\FoodPal.Deliveries.Domain\bin\Debug\net5.0\FoodPal.Deliveries.Common.dll
+C:\Users\Roxana\Desktop\Endava\FoodPal.Deliveries\FoodPal.Deliveries.Domain\bin\Debug\net5.0\FoodPal.Deliveries.Common.pdb
+C:\Users\Roxana\Desktop\Endava\FoodPal.Deliveries\FoodPal.Deliveries.Domain\obj\Debug\net5.0\FoodPal.Deliveries.Domain.csprojAssemblyReference.cache
+C:\Users\Roxana\Desktop\Endava\FoodPal.Deliveries\FoodPal.Deliveries.Domain\obj\Debug\net5.0\FoodPal.Deliveries.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roxana\Desktop\Endava\FoodPal.Deliveries\FoodPal.Deliveries.Domain\obj\Debug\net5.0\FoodPal.Deliveries.Domain.AssemblyInfoInputs.cache
+C:\Users\Roxana\Desktop\Endava\FoodPal.Deliveries\FoodPal.Deliveries.Domain\obj\Debug\net5.0\FoodPal.Deliveries.Domain.AssemblyInfo.cs
+C:\Users\Roxana\Desktop\Endava\FoodPal.Deliveries\FoodPal.Deliveries.Domain\obj\Debug\net5.0\FoodPal.Deliveries.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Roxana\Desktop\Endava\FoodPal.Deliveries\FoodPal.Deliveries.Domain\obj\Debug\net5.0\FoodPal.Deliveries.Domain.csproj.CopyComplete
+C:\Users\Roxana\Desktop\Endava\FoodPal.Deliveries\FoodPal.Deliveries.Domain\obj\Debug\net5.0\FoodPal.Deliveries.Domain.dll
+C:\Users\Roxana\Desktop\Endava\FoodPal.Deliveries\FoodPal.Deliveries.Domain\obj\Debug\net5.0\ref\FoodPal.Deliveries.Domain.dll
+C:\Users\Roxana\Desktop\Endava\FoodPal.Deliveries\FoodPal.Deliveries.Domain\obj\Debug\net5.0\FoodPal.Deliveries.Domain.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FoodPal.Deliveries.Common/1.0.0": {
+        "runtime": {
+          "FoodPal.Deliveries.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FoodPal.Deliveries.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
