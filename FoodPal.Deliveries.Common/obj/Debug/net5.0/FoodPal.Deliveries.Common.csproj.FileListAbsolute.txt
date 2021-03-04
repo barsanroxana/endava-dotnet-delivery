@@ -9,3 +9,15 @@ C:\Users\Roxana\Desktop\Endava\FoodPal.Deliveries\FoodPal.Deliveries.Common\obj\
 C:\Users\Roxana\Desktop\Endava\FoodPal.Deliveries\FoodPal.Deliveries.Common\obj\Debug\net5.0\FoodPal.Deliveries.Common.dll
 C:\Users\Roxana\Desktop\Endava\FoodPal.Deliveries\FoodPal.Deliveries.Common\obj\Debug\net5.0\ref\FoodPal.Deliveries.Common.dll
 C:\Users\Roxana\Desktop\Endava\FoodPal.Deliveries\FoodPal.Deliveries.Common\obj\Debug\net5.0\FoodPal.Deliveries.Common.pdb
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Delivery\endava-dotnet-delivery\FoodPal.Deliveries.Common\bin\Debug\net5.0\FoodPal.Deliveries.Common.deps.json
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Delivery\endava-dotnet-delivery\FoodPal.Deliveries.Common\bin\Debug\net5.0\FoodPal.Deliveries.Common.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Delivery\endava-dotnet-delivery\FoodPal.Deliveries.Common\bin\Debug\net5.0\ref\FoodPal.Deliveries.Common.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Delivery\endava-dotnet-delivery\FoodPal.Deliveries.Common\bin\Debug\net5.0\FoodPal.Deliveries.Common.pdb
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Delivery\endava-dotnet-delivery\FoodPal.Deliveries.Common\obj\Debug\net5.0\FoodPal.Deliveries.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Delivery\endava-dotnet-delivery\FoodPal.Deliveries.Common\obj\Debug\net5.0\FoodPal.Deliveries.Common.AssemblyInfoInputs.cache
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Delivery\endava-dotnet-delivery\FoodPal.Deliveries.Common\obj\Debug\net5.0\FoodPal.Deliveries.Common.AssemblyInfo.cs
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Delivery\endava-dotnet-delivery\FoodPal.Deliveries.Common\obj\Debug\net5.0\FoodPal.Deliveries.Common.csproj.CoreCompileInputs.cache
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Delivery\endava-dotnet-delivery\FoodPal.Deliveries.Common\obj\Debug\net5.0\FoodPal.Deliveries.Common.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Delivery\endava-dotnet-delivery\FoodPal.Deliveries.Common\obj\Debug\net5.0\ref\FoodPal.Deliveries.Common.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Delivery\endava-dotnet-delivery\FoodPal.Deliveries.Common\obj\Debug\net5.0\FoodPal.Deliveries.Common.pdb
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Delivery\endava-dotnet-delivery\FoodPal.Deliveries.Common\obj\Debug\net5.0\FoodPal.Deliveries.Common.csprojAssemblyReference.cache

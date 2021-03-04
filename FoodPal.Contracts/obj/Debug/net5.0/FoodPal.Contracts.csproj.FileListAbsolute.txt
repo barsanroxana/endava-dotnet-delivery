@@ -13,3 +13,18 @@ C:\Users\Roxana\Desktop\Endava\FoodPal.Deliveries\FoodPal.Contracts\obj\Debug\ne
 C:\Users\Roxana\Desktop\Endava\FoodPal.Deliveries\FoodPal.Contracts\bin\Debug\net5.0\FoodPal.Deliveries.Common.dll
 C:\Users\Roxana\Desktop\Endava\FoodPal.Deliveries\FoodPal.Contracts\bin\Debug\net5.0\FoodPal.Deliveries.Common.pdb
 C:\Users\Roxana\Desktop\Endava\FoodPal.Deliveries\FoodPal.Contracts\obj\Debug\net5.0\FoodPal.Contracts.csproj.CopyComplete
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Delivery\endava-dotnet-delivery\FoodPal.Contracts\bin\Debug\net5.0\FoodPal.Contracts.deps.json
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Delivery\endava-dotnet-delivery\FoodPal.Contracts\bin\Debug\net5.0\FoodPal.Contracts.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Delivery\endava-dotnet-delivery\FoodPal.Contracts\bin\Debug\net5.0\ref\FoodPal.Contracts.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Delivery\endava-dotnet-delivery\FoodPal.Contracts\bin\Debug\net5.0\FoodPal.Contracts.pdb
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Delivery\endava-dotnet-delivery\FoodPal.Contracts\bin\Debug\net5.0\FoodPal.Deliveries.Common.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Delivery\endava-dotnet-delivery\FoodPal.Contracts\bin\Debug\net5.0\FoodPal.Deliveries.Common.pdb
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Delivery\endava-dotnet-delivery\FoodPal.Contracts\obj\Debug\net5.0\FoodPal.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Delivery\endava-dotnet-delivery\FoodPal.Contracts\obj\Debug\net5.0\FoodPal.Contracts.AssemblyInfoInputs.cache
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Delivery\endava-dotnet-delivery\FoodPal.Contracts\obj\Debug\net5.0\FoodPal.Contracts.AssemblyInfo.cs
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Delivery\endava-dotnet-delivery\FoodPal.Contracts\obj\Debug\net5.0\FoodPal.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Delivery\endava-dotnet-delivery\FoodPal.Contracts\obj\Debug\net5.0\FoodPal.Contracts.csproj.CopyComplete
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Delivery\endava-dotnet-delivery\FoodPal.Contracts\obj\Debug\net5.0\FoodPal.Contracts.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Delivery\endava-dotnet-delivery\FoodPal.Contracts\obj\Debug\net5.0\ref\FoodPal.Contracts.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Delivery\endava-dotnet-delivery\FoodPal.Contracts\obj\Debug\net5.0\FoodPal.Contracts.pdb
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Delivery\endava-dotnet-delivery\FoodPal.Contracts\obj\Debug\net5.0\FoodPal.Contracts.csprojAssemblyReference.cache

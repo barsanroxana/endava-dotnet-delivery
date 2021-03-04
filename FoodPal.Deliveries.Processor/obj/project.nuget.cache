@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/XNJwVrNo7pHK6FZYsQuPF/Gaz0YYm0Ggarwd4hr+GJJq32t22wJoE+dr+G6HrSXclNVKXmAgdz8AYSJEMHUtA==",
+  "dgSpecHash": "jIYzy6/Na27O9oRSj0XdIaqh+6YVJdhpNGsIrrzwjKFO/ZxOKfAeDHPZHN6+OA/u7n6GiPsc0ME2eafuNOGvvA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Roxana\\Desktop\\Endava\\FoodPal.Deliveries\\FoodPal.Deliveries.Processor\\FoodPal.Deliveries.Processor.csproj",
+  "projectFilePath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Delivery\\endava-dotnet-delivery\\FoodPal.Deliveries.Processor\\FoodPal.Deliveries.Processor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Roxana\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Roxana\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

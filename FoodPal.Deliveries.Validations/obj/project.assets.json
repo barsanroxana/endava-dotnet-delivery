@@ -334,11 +334,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Roxana\\Desktop\\Endava\\FoodPal.Deliveries\\FoodPal.Deliveries.Validations\\FoodPal.Deliveries.Validations.csproj",
+      "projectUniqueName": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Delivery\\endava-dotnet-delivery\\FoodPal.Deliveries.Validations\\FoodPal.Deliveries.Validations.csproj",
       "projectName": "FoodPal.Deliveries.Validations",
-      "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\FoodPal.Deliveries\\FoodPal.Deliveries.Validations\\FoodPal.Deliveries.Validations.csproj",
+      "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Delivery\\endava-dotnet-delivery\\FoodPal.Deliveries.Validations\\FoodPal.Deliveries.Validations.csproj",
       "packagesPath": "C:\\Users\\Roxana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Roxana\\Desktop\\Endava\\FoodPal.Deliveries\\FoodPal.Deliveries.Validations\\obj\\",
+      "outputPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Delivery\\endava-dotnet-delivery\\FoodPal.Deliveries.Validations\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Roxana\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -355,8 +355,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Roxana\\Desktop\\Endava\\FoodPal.Deliveries\\FoodPal.Deliveries.Application\\FoodPal.Deliveries.Application.csproj": {
-              "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\FoodPal.Deliveries\\FoodPal.Deliveries.Application\\FoodPal.Deliveries.Application.csproj"
+            "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Delivery\\endava-dotnet-delivery\\FoodPal.Deliveries.Application\\FoodPal.Deliveries.Application.csproj": {
+              "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Delivery\\endava-dotnet-delivery\\FoodPal.Deliveries.Application\\FoodPal.Deliveries.Application.csproj"
             }
           }
         }

@@ -5218,11 +5218,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Roxana\\Desktop\\Endava\\FoodPal.Deliveries\\FoodPal.Deliveries.Messages\\FoodPal.Deliveries.Messages.csproj",
+      "projectUniqueName": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Delivery\\endava-dotnet-delivery\\FoodPal.Deliveries.Messages\\FoodPal.Deliveries.Messages.csproj",
       "projectName": "FoodPal.Deliveries.Messages",
-      "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\FoodPal.Deliveries\\FoodPal.Deliveries.Messages\\FoodPal.Deliveries.Messages.csproj",
+      "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Delivery\\endava-dotnet-delivery\\FoodPal.Deliveries.Messages\\FoodPal.Deliveries.Messages.csproj",
       "packagesPath": "C:\\Users\\Roxana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Roxana\\Desktop\\Endava\\FoodPal.Deliveries\\FoodPal.Deliveries.Messages\\obj\\",
+      "outputPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Delivery\\endava-dotnet-delivery\\FoodPal.Deliveries.Messages\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Roxana\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5239,14 +5239,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Roxana\\Desktop\\Endava\\FoodPal.Deliveries\\FoodPal.Contracts\\FoodPal.Contracts.csproj": {
-              "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\FoodPal.Deliveries\\FoodPal.Contracts\\FoodPal.Contracts.csproj"
+            "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Delivery\\endava-dotnet-delivery\\FoodPal.Contracts\\FoodPal.Contracts.csproj": {
+              "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Delivery\\endava-dotnet-delivery\\FoodPal.Contracts\\FoodPal.Contracts.csproj"
             },
-            "C:\\Users\\Roxana\\Desktop\\Endava\\FoodPal.Deliveries\\FoodPal.Deliveries.Application\\FoodPal.Deliveries.Application.csproj": {
-              "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\FoodPal.Deliveries\\FoodPal.Deliveries.Application\\FoodPal.Deliveries.Application.csproj"
+            "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Delivery\\endava-dotnet-delivery\\FoodPal.Deliveries.Application\\FoodPal.Deliveries.Application.csproj": {
+              "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Delivery\\endava-dotnet-delivery\\FoodPal.Deliveries.Application\\FoodPal.Deliveries.Application.csproj"
             },
-            "C:\\Users\\Roxana\\Desktop\\Endava\\FoodPal.Deliveries\\FoodPal.Deliveries.Dto\\FoodPal.Deliveries.Dto.csproj": {
-              "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\FoodPal.Deliveries\\FoodPal.Deliveries.Dto\\FoodPal.Deliveries.Dto.csproj"
+            "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Delivery\\endava-dotnet-delivery\\FoodPal.Deliveries.Dto\\FoodPal.Deliveries.Dto.csproj": {
+              "projectPath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Delivery\\endava-dotnet-delivery\\FoodPal.Deliveries.Dto\\FoodPal.Deliveries.Dto.csproj"
             }
           }
         }

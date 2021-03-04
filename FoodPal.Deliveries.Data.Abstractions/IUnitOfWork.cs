@@ -1,12 +1,15 @@
 ﻿using FoodPal.Deliveries.Domain;
+using System;
 using System.Collections.Generic;
+using System.Linq;
+using System.Linq.Expressions;
 using System.Threading.Tasks;
 
 namespace FoodPal.Deliveries.Data.Abstractions
 {
     public interface IRepository<TEntity> where TEntity : class, IEntity
     {
-        Task<IEnumerable<TEntity>> GetAllAsync();
+        IQueryable<TEntity> Find(Expression<Func<TEntity, bool>> findCriteria, List<string> toInclude = null);
         Task<TEntity> FindByIdAsync(int id);
         void Create(TEntity entity);
         void Update(TEntity entity);

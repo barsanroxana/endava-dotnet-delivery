@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y9pLVR7plgxW1WbgOse6BOujetd4XEZlaB2ZAX6XH5fMnCqF+h6oHnQS0fdkXe1EPhZvobrvBdsKDTFWE1iV0w==",
+  "dgSpecHash": "IMNUWunVa6KbgjesNe67bWpN5H6MbSRxHJx7bVIHu3gK2pDGnFH8PIZl0DAcPbR0UYZIoBdS4EDi1bEJe2EXIg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Roxana\\Desktop\\Endava\\FoodPal.Deliveries\\FoodPal.Deliveries.Messages\\FoodPal.Deliveries.Messages.csproj",
+  "projectFilePath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Delivery\\endava-dotnet-delivery\\FoodPal.Deliveries.Messages\\FoodPal.Deliveries.Messages.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Roxana\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Roxana\\.nuget\\packages\\automatonymous\\5.1.1\\automatonymous.5.1.1.nupkg.sha512",

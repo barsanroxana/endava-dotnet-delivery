@@ -1,3 +1,4 @@
+using FoodPal.Contracts;
 using FoodPal.Deliveries.Common.Settings;
 using MassTransit;
 using Microsoft.AspNetCore.Builder;
@@ -31,7 +32,9 @@ namespace FoodPal.Deliveries.Api
                     config.Host(messageBrokerSettings.ServiceBusHost);
                     config.ConfigureEndpoints(context);
                 });
+                configure.AddRequestClient<IUserDeliveriesRequested>();
             });
+            services.AddMassTransitHostedService();
 
             services.AddControllers();
             services.AddSwaggerGen(c =>

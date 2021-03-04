@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pOW6513jPw4+88IzLTI9IC6Szy2wmEjmYASU9wnZy+YPSjPWLYKzA2l5h3PbPXVMhyNuZJ3/SHwbAZMqL0veYQ==",
+  "dgSpecHash": "KjQ9f/sfHoeoJ01EL4aDwVZB3+xMQ+5/KJ1TdNRqUgR7wSVezoaMPAMHliIUXGHi1tPG8Rh6xguai7rEPGFl4w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Roxana\\Desktop\\Endava\\FoodPal.Deliveries\\FoodPal.Deliveries.Application\\FoodPal.Deliveries.Application.csproj",
+  "projectFilePath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Delivery\\endava-dotnet-delivery\\FoodPal.Deliveries.Application\\FoodPal.Deliveries.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Roxana\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Roxana\\.nuget\\packages\\fluentvalidation\\9.5.1\\fluentvalidation.9.5.1.nupkg.sha512",

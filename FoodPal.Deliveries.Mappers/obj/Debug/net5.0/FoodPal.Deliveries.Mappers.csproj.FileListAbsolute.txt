@@ -23,3 +23,28 @@ C:\Users\Roxana\Desktop\Endava\FoodPal.Deliveries\FoodPal.Deliveries.Mappers\bin
 C:\Users\Roxana\Desktop\Endava\FoodPal.Deliveries\FoodPal.Deliveries.Mappers\bin\Debug\net5.0\FoodPal.Deliveries.Application.pdb
 C:\Users\Roxana\Desktop\Endava\FoodPal.Deliveries\FoodPal.Deliveries.Mappers\bin\Debug\net5.0\FoodPal.Deliveries.Data.Abstractions.pdb
 C:\Users\Roxana\Desktop\Endava\FoodPal.Deliveries\FoodPal.Deliveries.Mappers\bin\Debug\net5.0\FoodPal.Deliveries.Dto.pdb
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Delivery\endava-dotnet-delivery\FoodPal.Deliveries.Mappers\bin\Debug\net5.0\FoodPal.Deliveries.Mappers.deps.json
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Delivery\endava-dotnet-delivery\FoodPal.Deliveries.Mappers\bin\Debug\net5.0\FoodPal.Deliveries.Mappers.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Delivery\endava-dotnet-delivery\FoodPal.Deliveries.Mappers\bin\Debug\net5.0\ref\FoodPal.Deliveries.Mappers.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Delivery\endava-dotnet-delivery\FoodPal.Deliveries.Mappers\bin\Debug\net5.0\FoodPal.Deliveries.Mappers.pdb
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Delivery\endava-dotnet-delivery\FoodPal.Deliveries.Mappers\bin\Debug\net5.0\FoodPal.Contracts.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Delivery\endava-dotnet-delivery\FoodPal.Deliveries.Mappers\bin\Debug\net5.0\FoodPal.Deliveries.Application.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Delivery\endava-dotnet-delivery\FoodPal.Deliveries.Mappers\bin\Debug\net5.0\FoodPal.Deliveries.Common.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Delivery\endava-dotnet-delivery\FoodPal.Deliveries.Mappers\bin\Debug\net5.0\FoodPal.Deliveries.Data.Abstractions.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Delivery\endava-dotnet-delivery\FoodPal.Deliveries.Mappers\bin\Debug\net5.0\FoodPal.Deliveries.Domain.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Delivery\endava-dotnet-delivery\FoodPal.Deliveries.Mappers\bin\Debug\net5.0\FoodPal.Deliveries.Dto.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Delivery\endava-dotnet-delivery\FoodPal.Deliveries.Mappers\bin\Debug\net5.0\FoodPal.Contracts.pdb
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Delivery\endava-dotnet-delivery\FoodPal.Deliveries.Mappers\bin\Debug\net5.0\FoodPal.Deliveries.Application.pdb
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Delivery\endava-dotnet-delivery\FoodPal.Deliveries.Mappers\bin\Debug\net5.0\FoodPal.Deliveries.Domain.pdb
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Delivery\endava-dotnet-delivery\FoodPal.Deliveries.Mappers\bin\Debug\net5.0\FoodPal.Deliveries.Common.pdb
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Delivery\endava-dotnet-delivery\FoodPal.Deliveries.Mappers\bin\Debug\net5.0\FoodPal.Deliveries.Data.Abstractions.pdb
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Delivery\endava-dotnet-delivery\FoodPal.Deliveries.Mappers\bin\Debug\net5.0\FoodPal.Deliveries.Dto.pdb
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Delivery\endava-dotnet-delivery\FoodPal.Deliveries.Mappers\obj\Debug\net5.0\FoodPal.Deliveries.Mappers.csprojAssemblyReference.cache
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Delivery\endava-dotnet-delivery\FoodPal.Deliveries.Mappers\obj\Debug\net5.0\FoodPal.Deliveries.Mappers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Delivery\endava-dotnet-delivery\FoodPal.Deliveries.Mappers\obj\Debug\net5.0\FoodPal.Deliveries.Mappers.AssemblyInfoInputs.cache
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Delivery\endava-dotnet-delivery\FoodPal.Deliveries.Mappers\obj\Debug\net5.0\FoodPal.Deliveries.Mappers.AssemblyInfo.cs
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Delivery\endava-dotnet-delivery\FoodPal.Deliveries.Mappers\obj\Debug\net5.0\FoodPal.Deliveries.Mappers.csproj.CoreCompileInputs.cache
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Delivery\endava-dotnet-delivery\FoodPal.Deliveries.Mappers\obj\Debug\net5.0\FoodPal.Deliveries.Mappers.csproj.CopyComplete
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Delivery\endava-dotnet-delivery\FoodPal.Deliveries.Mappers\obj\Debug\net5.0\FoodPal.Deliveries.Mappers.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Delivery\endava-dotnet-delivery\FoodPal.Deliveries.Mappers\obj\Debug\net5.0\ref\FoodPal.Deliveries.Mappers.dll
+C:\Users\Roxana\Desktop\Endava\GitRepoTeme My\endava-dotnet-Delivery\endava-dotnet-delivery\FoodPal.Deliveries.Mappers\obj\Debug\net5.0\FoodPal.Deliveries.Mappers.pdb

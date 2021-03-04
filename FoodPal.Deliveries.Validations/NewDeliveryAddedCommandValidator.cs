@@ -8,6 +8,8 @@ namespace FoodPal.Deliveries.Validations
         public NewDeliveryAddedCommandValidator()
         {
             this.RuleFor(x => x.Id).NotEmpty();
+            this.RuleFor(x => x.UserId).NotEmpty();
+            this.RuleFor(x => x.OrderId).NotEmpty();
         }
     }
 }

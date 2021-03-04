@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jUHVZcAYDM0QfaH/K8T1CSvKG4KccjgGOZ53ADyy+PGxwb0R4oEvD14EXr32Dw50Iio2TfHLxD6AULdKlQcxeg==",
+  "dgSpecHash": "De/7fXCY8IkqrX8+YYk0qcLgxEViTfKjeDDomlApoKjall8B9k/65vZUO4zPCjfM56rgIluo8SJqzKwISb38Nw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Roxana\\Desktop\\Endava\\FoodPal.Deliveries\\FoodPal.Contracts\\FoodPal.Contracts.csproj",
+  "projectFilePath": "C:\\Users\\Roxana\\Desktop\\Endava\\GitRepoTeme My\\endava-dotnet-Delivery\\endava-dotnet-delivery\\FoodPal.Contracts\\FoodPal.Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -48,6 +48,8 @@ namespace FoodPal.Deliveries.Processor
             services.AddMediatR(typeof(NewUserAddedCommandHandler).Assembly);
             services.AddMediatR(typeof(UserUpdatedCommandHandler).Assembly);
             services.AddMediatR(typeof(NewDeliveryAddedCommandHandler).Assembly);
+            services.AddMediatR(typeof(DeliveryCompletedCommandHandler).Assembly);
+            services.AddMediatR(typeof(UserDeliveriesRequestedQueryHandler).Assembly);
 
             services.AddScoped<IUnitOfWork, UnitOfWork>();
             services.Configure<DbSettings>(hostBuilder.Configuration.GetSection("ConnectionStrings"));
@@ -56,6 +58,8 @@ namespace FoodPal.Deliveries.Processor
             services.AddScoped<NewUserAddedConsumer>();
             services.AddScoped<UserUpdatedConsumer>();
             services.AddScoped<NewDeliveryAddedConsumer>();
+            services.AddScoped<DeliveryCompletedConsumer>();
+            services.AddScoped<UserDeliveriesRequestedConsumer>();
 
             services.AddMassTransit(configuration => {
                 configuration.UsingAzureServiceBus((context, config) =>
@@ -73,6 +77,8 @@ namespace FoodPal.Deliveries.Processor
                     {
                         // register consumer 
                         e.Consumer(() => context.GetService<NewDeliveryAddedConsumer>());
+                        e.Consumer(() => context.GetService<DeliveryCompletedConsumer>());
+                        e.Consumer(() => context.GetService<UserDeliveriesRequestedConsumer>());
                     });
                 });
             });

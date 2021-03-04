@@ -3,6 +3,8 @@ using FoodPal.Deliveries.Domain;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
+using System.Linq;
+using System.Linq.Expressions;
 using System.Threading.Tasks;
 
 namespace FoodPal.Deliveries.Data
@@ -37,9 +39,19 @@ namespace FoodPal.Deliveries.Data
             return await this._dbSet.FirstOrDefaultAsync(x => x.Id == id);
         }
 
-        public Task<IEnumerable<TEntity>> GetAllAsync()
+        public IQueryable<TEntity> Find(Expression<Func<TEntity, bool>> findCriteria, List<string> toInclude = null)
         {
-            return null;
+            var query = this._dbSet.Where(findCriteria);
+
+            if (toInclude is not null)
+            {
+                foreach (var include in toInclude)
+                {
+                    query = query.Include(include);
+                }
+            }
+
+            return query;
         }
 
         public void Update(TEntity entity)
